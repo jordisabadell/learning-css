@@ -1,2 +1,4 @@
-# learning-css
-CSS learning.
+# CSS learning
+
+## Web reference
+https://www.w3schools.com/css
